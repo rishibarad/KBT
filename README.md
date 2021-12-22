@@ -3,7 +3,7 @@
 ## Branches:
 main - stable app releases
 
-staging - development branch, merge your feature branches here
+dev - development branch, merge your feature branches here
 
 ## Dependencies:
 This project is using cocoapods for managing external libraries and a Gemfile for managing the cocoapods version. You will need to run the following commands in terminal after cloning this repository to your local machine to get the project running inside of Xcode.
